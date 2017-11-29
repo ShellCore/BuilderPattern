@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Builder Pattern</string>
+    <string name="headline">Esto es un título</string>
+    <string name="subheadline">Aquí iría el subtítulo de la app</string>
+    <string name="short_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, repellat.</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquid assumenda consequatur debitis dicta, eaque error expedita harum hic incidunt iste laboriosam mollitia nihil nisi numquam odio quas, quidem quod reiciendis, reprehenderit sint totam ullam vel veritatis voluptas voluptatibus voluptatum. Aut eos hic illo itaque magnam nulla officiis perferendis velit.</string>
 </resources>
